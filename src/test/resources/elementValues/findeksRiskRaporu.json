@@ -1,0 +1,12 @@
+[
+  {
+    "key": "findeksRiskRaporu",
+    "value": "//*[@id=\"ctl00_u10_ascIcerik_lblICR_METIN_TEMPLATE\"]/div/div[3]/div[1]/div/div[3]/table/tbody/tr[4]/td/a",
+    "type": "xpath"
+  },
+  {
+    "key": "findeksRiskOgrenme",
+    "value": "//*[@id=\"ctl00_u10_ascIcerik_lblICR_METIN_TEMPLATE\"]/div/div[3]/div[1]/div/div[3]/table/tbody/tr[4]/td/div/li[2]/a",
+    "type": "xpath"
+  }
+]

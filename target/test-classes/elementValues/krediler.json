@@ -1,0 +1,19 @@
+[
+  {
+    "key": "Krediler",
+    "value":"//cufon[@alt='Krediler']",
+    "type": "xpath"
+  },
+
+  {
+  "key": "ihtiyacKredileri",
+  "value": "//a[@href='/ihtiyac-kredileri/']",
+  "type": "xpath"
+  },
+
+  {
+    "key": "detayliBilgi",
+    "value": "//*[@id=\"ctl00_u10_ascIcerik_dtIcerikTemplate_ctl00_pnlIcerikListeTemplate\"]/div/div/div[2]/a",
+    "type": "xpath"
+  }
+]

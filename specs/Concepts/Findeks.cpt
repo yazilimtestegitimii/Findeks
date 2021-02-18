@@ -1,0 +1,34 @@
+#TEB anasayfasinda krediler butonuna tiklanir
+*TEB Anasayfasina tikla
+*"Krediler" hover gel bekle
+*"5" saniye bekle
+
+#Ihtiyac kredilerine tiklanir
+*"ihtiyacKredileri" tikla
+*"5" saniye bekle
+*"detayliBilgi" tikla
+*"3" saniye bekle
+
+#Findeks notu ögrenme sayfasina gidilir
+*"findeksRiskRaporu" elementi var mi
+*"3" saniye bekle
+*"findeksRiskRaporu" tikla
+*"3" saniye bekle
+*"findeksRiskOgrenme" elementi var mi
+*"3" saniye bekle
+*"findeksRiskOgrenme" tikla
+*"3" saniye bekle
+*Yeni pencere acildi
+*"3" saniye bekle
+
+#Bireysel paketler sayfasina gidilir
+*"bireyselPaket" elementi var mi
+*"3" saniye bekle
+*"bireyselPaket" tikla
+*"3" saniye bekle
+
+#Premium bireysel paket satin alma penceresine gidilir
+*"satinAl" elementi var mi
+*"3" saniye bekle
+*"satinAl" tikla
+*"5" saniye bekle

@@ -1,0 +1,12 @@
+[
+  {
+    "key": "bireyselPaket",
+    "value": "//*[@id=\"ctl00_u10_ascIcerik_lblICR_METIN_TEMPLATE\"]/div/div[3]/div/div/p[17]/a[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "satinAl",
+    "value": "//*[@id=\"tabs1\"]/div/div/div/div[3]/div[1]/div[3]/div[2]/a",
+    "type": "xpath"
+  }
+]
